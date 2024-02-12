@@ -1,0 +1,164 @@
+10
+10
+class Lis
+6
+1
+3
+16
+class Wilk
+0
+2
+9
+13
+class Wilk
+1
+6
+9
+8
+class Wilk
+1
+9
+9
+3
+class Owca
+4
+0
+4
+17
+class Antylopa
+2
+3
+4
+14
+class Owca
+4
+3
+4
+12
+class Antylopa
+4
+4
+4
+9
+class Owca
+4
+6
+4
+7
+class Antylopa
+4
+7
+4
+4
+class Owca
+3
+8
+4
+2
+class Zolw
+9
+0
+2
+15
+class Zolw
+8
+3
+2
+10
+class Zolw
+9
+6
+2
+5
+class Zolw
+9
+9
+2
+0
+class Trawa
+5
+1
+class Mlecz
+8
+1
+class Guarana
+1
+2
+class WilczeJagody
+4
+2
+class BarszczSosnowskiego
+7
+2
+class Trawa
+5
+4
+class Mlecz
+8
+4
+class Guarana
+1
+5
+class WilczeJagody
+4
+5
+class BarszczSosnowskiego
+7
+5
+class Trawa
+5
+7
+class Mlecz
+8
+7
+class Guarana
+1
+8
+class WilczeJagody
+4
+8
+class BarszczSosnowskiego
+7
+8
+class Trawa
+5
+2
+class Mlecz
+9
+1
+class Mlecz
+8
+0
+class Guarana
+2
+2
+class WilczeJagody
+3
+2
+class BarszczSosnowskiego
+6
+2
+class Trawa
+5
+3
+class Mlecz
+8
+5
+class Guarana
+1
+4
+class WilczeJagody
+3
+5
+class BarszczSosnowskiego
+7
+4
+class Mlecz
+8
+8
+class Mlecz
+9
+7
+class Guarana
+0
+8

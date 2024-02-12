@@ -1,0 +1,262 @@
+10
+10
+class Wilk
+1
+4
+9
+15
+class Wilk
+0
+5
+9
+10
+class Wilk
+0
+7
+12
+5
+class Wilk
+0
+9
+12
+1
+class Czlowiek
+1
+3
+8
+20
+-5
+class Owca
+5
+0
+4
+19
+class Antylopa
+0
+2
+4
+11
+class Owca
+1
+6
+4
+9
+class Antylopa
+3
+1
+4
+6
+class Zolw
+9
+2
+2
+17
+class Zolw
+9
+3
+2
+12
+class Zolw
+9
+6
+2
+7
+class Zolw
+9
+9
+2
+2
+class Zolw
+8
+0
+2
+0
+class Mlecz
+8
+1
+class WilczeJagody
+4
+2
+class BarszczSosnowskiego
+7
+2
+class Trawa
+5
+4
+class Mlecz
+8
+4
+class Guarana
+1
+5
+class WilczeJagody
+4
+5
+class BarszczSosnowskiego
+7
+5
+class Mlecz
+8
+7
+class BarszczSosnowskiego
+7
+8
+class Trawa
+5
+2
+class Mlecz
+8
+2
+class Mlecz
+8
+5
+class Mlecz
+7
+4
+class WilczeJagody
+3
+5
+class BarszczSosnowskiego
+7
+6
+class Trawa
+4
+7
+class Mlecz
+7
+7
+class Mlecz
+9
+7
+class WilczeJagody
+4
+9
+class BarszczSosnowskiego
+6
+8
+class Trawa
+6
+1
+class WilczeJagody
+4
+3
+class BarszczSosnowskiego
+7
+3
+class Trawa
+4
+4
+class Mlecz
+9
+4
+class Mlecz
+8
+3
+class WilczeJagody
+4
+6
+class BarszczSosnowskiego
+6
+5
+class Mlecz
+8
+8
+class Mlecz
+8
+6
+class Trawa
+5
+3
+class Mlecz
+9
+5
+class Mlecz
+6
+4
+class WilczeJagody
+3
+4
+class Mlecz
+6
+7
+class Guarana
+2
+9
+class Mlecz
+7
+1
+class Mlecz
+9
+1
+class WilczeJagody
+4
+1
+class BarszczSosnowskiego
+6
+2
+class Trawa
+5
+5
+class BarszczSosnowskiego
+7
+9
+class BarszczSosnowskiego
+6
+6
+class Trawa
+4
+8
+class Mlecz
+9
+8
+class WilczeJagody
+3
+9
+class BarszczSosnowskiego
+6
+9
+class Mlecz
+7
+0
+class BarszczSosnowskiego
+6
+3
+class Mlecz
+8
+9
+class WilczeJagody
+2
+4
+class Mlecz
+5
+7
+class Guarana
+2
+5
+class WilczeJagody
+3
+6
+class Trawa
+3
+7
+class WilczeJagody
+5
+9
+class BarszczSosnowskiego
+5
+8
+class Trawa
+6
+0
+class WilczeJagody
+5
+6
+class WilczeJagody
+3
+3
+class Mlecz
+9
+0
+class Trawa
+3
+8
